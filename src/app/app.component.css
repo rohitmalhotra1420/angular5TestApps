@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+}
+.main{
+  text-align: center;
+  width: 50%;
+}
+.heading{
+  background-color: #bf8ede;
+}
+ul{
+  list-style: none;
+}
+span{
+  position: relative;
+  float: right;
+  cursor: pointer;
+}
